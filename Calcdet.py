@@ -1,4 +1,4 @@
-# calcolates the det of matrix 2x2
+# calcolates the det of matrix 2x2 and 3x3
 import math as m
 
 print("Define your matrix")
